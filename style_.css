@@ -5,37 +5,41 @@ h1, h2 {
 
 }
 body {
-    background-color: rgb(41, 34, 34);
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    padding: 20px;
-}
-p {
-    font-size: 18px;
-    line-height: 1.6;
-    color: #748f9b;
-    max-width: 600px;
-    margin: 0 auto;
-}
-form {
-    text-align: center;
-    margin-top: 20px;
-    border-top-style: solid;
-    text-decoration-color: rgb(97, 97, 101);
-    text-shadow: 2px 2px 4px hsl(0, 3%, 38%);
-    font-style: italic;
+    background-color: rgba(41, 149, 196,0.7);
 }
 #login {
     text-align: center;
-    background-color: #868080;
+    background-color: #086f89;
     margin-left: 230px;
     margin-right: 230px;
     padding: 30px;
-    border: 2px solid #000000;
-    border-radius: 10px;
+    border: 1px solid #3acbe8;
+    border-radius: 50px;
+    opacity: 0.8;
+    box-shadow: 2px 2px 12px black;
+
+}
+#main{
+    text-align: center;
+    background-color: #086f89;
+    margin-left: 230px;
+    margin-right: 230px;
+    padding: 30px;
+    border: 1px solid #3acbe8;
+    border-radius: 50px;
+    box-shadow: 2px 2px 12px rgb(4, 15, 225);
+}
+
+button:hover{
+    background-color: black;
+    box-shadow: black;
+    color: #05638b;
 
 }
 input{
     background-color: brown;
     align-items: center;
+}
+.textarea{
+    border-radius: 10px;
 }
