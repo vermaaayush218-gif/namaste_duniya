@@ -1,19 +1,21 @@
 h1, h2 {
     text-align: center;
-    color: rgb(31, 55, 59);
+    color: rgb(0, 217, 255);
     font-family: 'Times New Roman', Times, serif;
 
 }
 body {
-    background-color: rgba(41, 149, 196,0.7);
+    background-color: rgba(255, 255, 255, 0.7);
 }
 #login {
     text-align: center;
-    background-color: #086f89;
-    margin-left: 230px;
-    margin-right: 230px;
+    background-color: #646768;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top:200px;
+    margin-bottom:200px;
     padding: 30px;
-    border: 1px solid #3acbe8;
+    border: 1px solid #000000;
     border-radius: 50px;
     opacity: 0.8;
     box-shadow: 2px 2px 12px black;
@@ -21,13 +23,13 @@ body {
 }
 #main{
     text-align: center;
-    background-color: #086f89;
-    margin-left: 230px;
-    margin-right: 230px;
+    background-color: #687171;
+    margin-left: 500px;
+    margin-right: 500px;
     padding: 30px;
-    border: 1px solid #3acbe8;
+    border: 1px solid #000000;
     border-radius: 50px;
-    box-shadow: 2px 2px 12px rgb(4, 15, 225);
+    box-shadow: 2px 2px 12px rgb(15, 14, 14);
 }
 
 button:hover{
