@@ -1,0 +1,10 @@
+button {
+    background-color: rgb(23, 206, 219);
+    backdrop-filter: blur(10px);
+    color: rgb(1, 7, 10);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline-style: none;
+}
