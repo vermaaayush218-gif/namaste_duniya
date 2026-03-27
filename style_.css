@@ -5,20 +5,25 @@ h1, h2 {
 
 }
 body {
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(143, 141, 141, 0.301);
+    background-image: url("namaste_duniya\image_01.webp");
+    background-size: cover;  
 }
+
 #login {
     text-align: center;
-    background-color: #646768;
+    background-color: #545b6c;
     margin-left: 500px;
     margin-right: 500px;
     margin-top:200px;
     margin-bottom:200px;
     padding: 30px;
-    border: 1px solid #000000;
+    border: 1px solid #1be1d1;
     border-radius: 50px;
     opacity: 0.8;
     box-shadow: 2px 2px 12px black;
+    background-image: url('namaste_duniya\image_01.webp');
+    background-size: cover;
 
 }
 #main{
