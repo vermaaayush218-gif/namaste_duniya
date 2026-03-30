@@ -16,7 +16,10 @@ button {
     line-height: 1px;
     color: seagreen;
 }
-.middle {
+#middle {
     color: rgb(137, 69, 137);
-    
+    height: 100px;
+    width: 150px;
+    background: linear-gradient(135deg, seagreen, rgb(46, 125, 50));
+    border-radius: 2px;
 }
