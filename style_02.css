@@ -1,10 +1,22 @@
+*{
+    background-color: rgb(0, 0, 0);
+
+}
 button {
-    background-color: rgb(23, 206, 219);
+    background-color: seagreen;
     backdrop-filter: blur(10px);
-    color: rgb(1, 7, 10);
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
-    outline-style: none;
+    cursor: pointer;   
+}
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px rgba(62, 59, 59, 0.568);
+    line-height: 1px;
+    color: seagreen;
+}
+.middle {
+    color: rgb(137, 69, 137);
+    
 }
