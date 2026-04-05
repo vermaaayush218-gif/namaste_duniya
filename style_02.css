@@ -25,3 +25,13 @@ button {
     margin-left:5px;
     text-align: center;
 }
+#middle_01 {
+      color: rgb(0, 0, 0);
+    height: 150px;
+    width: 150px;
+    background-color: seagreen;
+    box-shadow: 2px 2px 9px rgba(16, 237, 82, 0.9);
+    border-radius: 5px;
+    margin-left:5px;
+    text-align: center;
+}
