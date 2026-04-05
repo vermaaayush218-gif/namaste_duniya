@@ -1,6 +1,5 @@
-*{
-    background-color: rgb(0, 0, 0);
-
+body {
+    background-color: black;
 }
 button {
     background-color: seagreen;
@@ -17,9 +16,12 @@ button {
     color: seagreen;
 }
 #middle {
-    color: rgb(137, 69, 137);
-    height: 100px;
+    color: rgb(0, 0, 0);
+    height: 488px;
     width: 150px;
-    background: linear-gradient(135deg, seagreen, rgb(46, 125, 50));
-    border-radius: 2px;
+    background-color: seagreen;
+    box-shadow: 2px 2px 9px rgba(16, 237, 82, 0.9);
+    border-radius: 5px;
+    margin-left:5px;
+    text-align: center;
 }
