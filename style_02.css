@@ -27,11 +27,28 @@ button {
 }
 #middle_01 {
       color: rgb(0, 0, 0);
-    height: 300px;
-    width: 150px;
+    height: 250px;
+    width: 200px;
     background-color: seagreen;
     box-shadow: 2px 2px 9px rgba(16, 237, 82, 0.9);
     border-radius: 5px;
     margin-left:5px;
     text-align: center;
+}
+#footer{
+    background-color: gray;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    position:absolute;
+}
+#footer button{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
 }
